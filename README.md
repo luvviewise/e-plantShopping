@@ -1,1 +1,2 @@
-# e-plantShopping:Final Project- Paradise Nursery Application
+# e-plantShopping:
+Final Project- Paradise Nursery Application
