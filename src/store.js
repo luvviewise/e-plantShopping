@@ -5,4 +5,4 @@ import cartReducer from './CartSlice.jsx';
         cart: cartReducer,
     },
 });
-export default store
+export default store;
